@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c600aa40-17bd-4e32-ae7f-0a5ae7b21d51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9_TH_AbstractClass_Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/IEdible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th1/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th2/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th2/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th3/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th3/IComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th3/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/th4/Teacher.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RQM9OYImBVTMLj6iuHxCrkzRgH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/SS9_TH_AbstractClass_Interface/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="th3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.th4.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="th1.Main" />
+      <module name="SS9_TH_AbstractClass_Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="th1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="th2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="th2.Main" />
+      <module name="SS9_TH_AbstractClass_Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="th2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="th4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="th4.Main" />
+      <module name="SS9_TH_AbstractClass_Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="th4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.th4.Main" />
+        <item itemvalue="Application.th2.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c600aa40-17bd-4e32-ae7f-0a5ae7b21d51" name="Changes" comment="" />
+      <created>1687177700929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687177700929</updated>
+      <workItem from="1687177702011" duration="4796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
